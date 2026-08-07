@@ -1,0 +1,9 @@
+services:
+  website:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    expose:
+      - "80"
+
