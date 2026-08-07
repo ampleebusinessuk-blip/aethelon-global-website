@@ -14,3 +14,30 @@
 .image-free-hero{min-height:520px;background:linear-gradient(115deg,#fff 0,#f7fbff 58%,#e8f4ff 100%);isolation:isolate}.image-free-hero:before{content:"";position:absolute;z-index:-1;inset:0;background-image:radial-gradient(circle at 1px 1px,rgba(8,117,209,.16) 1px,transparent 0);background-size:30px 30px;mask-image:linear-gradient(90deg,transparent 2%,rgba(0,0,0,.55) 45%,#000 100%);animation:gridGlide 18s linear infinite}.image-free-hero:after{content:"";position:absolute;z-index:-1;width:520px;height:520px;right:-120px;top:-210px;border-radius:50%;border:1px solid rgba(8,117,209,.16);box-shadow:0 0 0 58px rgba(8,117,209,.045),0 0 0 116px rgba(8,117,209,.025);animation:heroOrb 8s ease-in-out infinite}.image-free-hero .home-hero-copy{width:min(760px,100%);padding:84px 0}.image-free-hero h1,.image-free-hero .lead,.image-free-hero .button-row,.image-free-hero .proof-line{animation:copyRise .72s cubic-bezier(.2,.8,.2,1) both}.image-free-hero .lead{animation-delay:.12s}.image-free-hero .button-row{animation-delay:.22s}.image-free-hero .proof-line{animation-delay:.32s}@keyframes gridGlide{to{background-position:30px 30px}}@keyframes heroOrb{50%{transform:translate(-20px,22px) scale(1.05)}}
 @media(max-width:760px){.image-free-hero{min-height:auto;align-items:center}.image-free-hero .home-hero-copy{padding:58px 0}.image-free-hero:after{width:300px;height:300px;right:-180px;top:-100px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}.reveal{opacity:1;transform:none}}
+
+/* Contact page and footer brand alignment */
+.brand{display:inline-block;width:max-content}
+.footer-brand .brand{justify-self:start}
+.contact-section{background:linear-gradient(180deg,#fff,#f8fbff)}
+.contact-grid{grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);gap:48px;align-items:start}
+.contact-details,.contact-form{min-width:0}
+.contact-details h2,.form-heading h2{margin:8px 0 14px}
+.contact-intro{max-width:560px;margin:0 0 26px}
+.contact-cards{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.contact-card{min-height:132px;padding:20px;border-radius:10px;background:#fff;display:grid;grid-template-columns:42px minmax(0,1fr);gap:14px;align-content:center;box-shadow:0 7px 20px rgba(6,42,79,.055);transition:.25s}
+.contact-card:hover{transform:translateY(-3px);border-color:#b8d3e8;box-shadow:0 13px 28px rgba(6,42,79,.1)}
+.contact-card-icon{width:42px;height:42px;border-radius:9px;display:grid;place-items:center;background:var(--sky);color:var(--blue)}
+.contact-card-icon.morocco{background:#fff0ea;color:var(--red)}
+.contact-card-icon svg{width:21px;height:21px}
+.contact-card b,.contact-card a,.contact-card div>span{display:block}
+.contact-card b{font:700 15px Manrope;margin-bottom:4px}
+.contact-card a,.contact-card div>span{font-size:13px;color:var(--muted);overflow-wrap:anywhere}
+.contact-card a:hover{color:var(--blue)}
+.contact-form{padding:34px;border:1px solid var(--line);border-radius:12px;background:#fff;box-shadow:var(--shadow)}
+.form-heading{padding-bottom:8px}
+.form-heading p{margin:0;color:var(--muted);font-size:14px}
+.form-submit{align-items:start}
+.form-submit .btn{justify-self:start}
+.form-submit small{line-height:1.45}
+@media(max-width:760px){.contact-grid{grid-template-columns:1fr;gap:34px}.contact-form{padding:26px}.contact-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.contact-cards{grid-template-columns:1fr}.contact-card{min-height:auto}}
