@@ -1,4 +1,11 @@
 (function(){
+  if(!document.querySelector('link[rel~="icon"]')){
+    const icon=document.createElement('link');
+    icon.rel='icon';
+    icon.type='image/svg+xml';
+    icon.href='/assets/favicon.svg';
+    document.head.append(icon);
+  }
   if(window.lucide) lucide.createIcons();
   const header=document.querySelector('.site-header');
   const nav=document.querySelector('.nav');

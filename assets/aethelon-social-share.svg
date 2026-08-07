@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#072b50"/>
+      <stop offset="1" stop-color="#031e39"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="15%" r="70%">
+      <stop stop-color="#0875d1" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#0875d1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g opacity=".13" fill="none" stroke="#89c9ff">
+    <circle cx="1080" cy="75" r="185"/>
+    <circle cx="1080" cy="75" r="245"/>
+    <circle cx="1080" cy="75" r="305"/>
+  </g>
+  <g transform="translate(76 68)" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle" fill="#fff">
+    <path d="M0 0h82v72H0z" fill="#ff7925"/><text x="41" y="51">A</text>
+    <path d="M82 0h82v72H82z" fill="#ef5b22"/><text x="123" y="51">E</text>
+    <path d="M164 0h82v72h-82z" fill="#db401e"/><text x="205" y="51">T</text>
+    <path d="M246 0h82v72h-82z" fill="#be321e"/><text x="287" y="51">H</text>
+    <path d="M328 0h82v72h-82z" fill="#0a3d63"/><text x="369" y="51">E</text>
+    <path d="M410 0h82v72h-82z" fill="#06628a"/><text x="451" y="51">L</text>
+    <path d="M492 0h82v72h-82z" fill="#078e9b"/><text x="533" y="51">O</text>
+    <path d="M574 0h82v72h-82z" fill="#4d9637"/><text x="615" y="51">N</text>
+  </g>
+  <g transform="translate(76 163)" font-family="Arial, Helvetica, sans-serif" fill="#dcecf8">
+    <path d="M0 8h175v2H0z" fill="#7799b5"/>
+    <text x="328" y="18" font-size="24" font-weight="700" letter-spacing="12" text-anchor="middle">GLOBAL</text>
+    <path d="M481 8h175v2H481z" fill="#7799b5"/>
+  </g>
+  <text x="76" y="292" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#fff">Technology that works.</text>
+  <text x="76" y="366" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#46a8f5">A team that stays accountable.</text>
+  <text x="78" y="432" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#c8dceb">IT consulting  •  Cloud  •  Cybersecurity  •  CRM  •  Managed support</text>
+  <g transform="translate(76 505)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="1048" height="74" rx="12" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".14"/>
+    <text x="26" y="47" font-size="24" font-weight="700" fill="#fff">aethelonglobal.com</text>
+    <text x="1020" y="47" font-size="20" text-anchor="end" fill="#c8dceb">Delaware, USA  •  Morocco</text>
+  </g>
+  <path d="M0 618h300v12H0z" fill="#ff7925"/>
+  <path d="M300 618h300v12H300z" fill="#ed3224"/>
+  <path d="M600 618h300v12H600z" fill="#0875d1"/>
+  <path d="M900 618h300v12H900z" fill="#56a633"/>
+</svg>
