@@ -6,4 +6,3 @@ services:
     restart: unless-stopped
     expose:
       - "80"
-

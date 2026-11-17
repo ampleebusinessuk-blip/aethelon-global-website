@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "senior-ai-engineer",
+    "title": "Senior AI Engineer",
+    "team": "Technology",
+    "location": "Hybrid",
+    "type": "Full-time",
+    "summary": "Design, build and ship production AI systems — from retrieval and agents to evaluation and monitoring — alongside client teams.",
+    "about": "You'll join our AI practice to take promising ideas from prototype to production. You'll work closely with product, data and design colleagues and with client engineers, building systems people rely on every day.",
+    "responsibilities": [
+      "Design and build LLM-powered features, retrieval pipelines and agent workflows",
+      "Set up evaluation, guardrails and monitoring so systems stay reliable in production",
+      "Pair with client engineers and help them grow their own AI capability",
+      "Shape technical direction and estimate effort with delivery leads"
+    ],
+    "requirements": [
+      "5+ years of software engineering, with recent hands-on work on ML or LLM systems",
+      "Strong Python and experience with at least one major cloud platform",
+      "Practical understanding of evaluation, latency and cost trade-offs",
+      "Clear communicator who enjoys working directly with clients"
+    ]
+  },
+  {
+    "slug": "data-engineer",
+    "title": "Data Engineer",
+    "team": "Technology",
+    "location": "Hybrid",
+    "type": "Full-time",
+    "summary": "Build the reliable, well-governed data platforms that analytics and AI depend on.",
+    "about": "You'll help clients move from scattered legacy data to platforms their teams trust — modelling data, building pipelines and putting quality and governance in from day one.",
+    "responsibilities": [
+      "Build batch and streaming pipelines on modern cloud data platforms",
+      "Model data for analytics and AI use cases with clear ownership and documentation",
+      "Implement data quality checks, lineage and access controls",
+      "Work with analysts and data scientists to turn requirements into datasets"
+    ],
+    "requirements": [
+      "3+ years building production data pipelines",
+      "Strong SQL and Python; experience with a cloud data warehouse or lakehouse",
+      "Familiarity with orchestration, testing and CI for data",
+      "Curiosity about the business problem behind the data"
+    ]
+  },
+  {
+    "slug": "experience-designer",
+    "title": "Experience Designer",
+    "team": "Design",
+    "location": "Hybrid",
+    "type": "Full-time",
+    "summary": "Research, design and test digital experiences that make complex services feel simple.",
+    "about": "You'll lead design on client teams — from discovery research to high-fidelity prototypes — making sure what we build works for the people who use it, including those with access needs.",
+    "responsibilities": [
+      "Plan and run user research and turn insights into clear design direction",
+      "Design journeys, prototypes and interfaces, and test them with real users",
+      "Champion accessibility and inclusive design across the team",
+      "Work hand in hand with engineers through delivery"
+    ],
+    "requirements": [
+      "A portfolio showing end-to-end service or product design work",
+      "Experience running research and usability testing",
+      "Strong working knowledge of accessibility standards",
+      "Comfortable presenting and facilitating with clients"
+    ]
+  },
+  {
+    "slug": "delivery-lead",
+    "title": "Delivery Lead",
+    "team": "Delivery",
+    "location": "Hybrid",
+    "type": "Full-time",
+    "summary": "Lead multidisciplinary teams to deliver measurable outcomes for clients, on time and with care.",
+    "about": "You'll own the delivery of client engagements: shaping plans, building healthy teams, managing risk and keeping everyone focused on the outcome the client needs.",
+    "responsibilities": [
+      "Plan and lead delivery for one or more client teams",
+      "Build trusted relationships with client stakeholders",
+      "Track outcomes, budget and risk, and communicate clearly and early",
+      "Coach team members and improve how we deliver"
+    ],
+    "requirements": [
+      "Experience leading agile delivery of digital or data products",
+      "Strong stakeholder management in a consulting or client-facing setting",
+      "Commercial awareness of scope, budget and change",
+      "A calm, people-first leadership style"
+    ]
+  },
+  {
+    "slug": "strategy-consultant",
+    "title": "Strategy Consultant",
+    "team": "Strategy",
+    "location": "Hybrid",
+    "type": "Full-time",
+    "summary": "Help leaders set direction on AI, customer experience and operating models — and turn strategy into action.",
+    "about": "You'll work with senior client leaders to frame problems, analyse options and build practical roadmaps — then stay close to delivery so strategy turns into results.",
+    "responsibilities": [
+      "Frame business problems and lead structured analysis",
+      "Facilitate workshops with senior stakeholders",
+      "Build business cases, roadmaps and operating-model designs",
+      "Partner with delivery teams to carry strategy into execution"
+    ],
+    "requirements": [
+      "3+ years in strategy consulting or a strategy role in industry",
+      "Strong analytical and storytelling skills",
+      "Interest in technology and AI and how they change organizations",
+      "Confident working with senior leaders"
+    ]
+  },
+  {
+    "slug": "cloud-platform-engineer",
+    "title": "Cloud Platform Engineer",
+    "team": "Technology",
+    "location": "Hybrid",
+    "type": "Full-time",
+    "summary": "Build secure, automated cloud platforms that let product teams ship quickly and safely.",
+    "about": "You'll design and automate cloud foundations — networking, identity, CI/CD and observability — and help clients modernize legacy workloads onto them.",
+    "responsibilities": [
+      "Design and build cloud landing zones and platform services as code",
+      "Automate build, test and deployment pipelines",
+      "Improve reliability, security and cost visibility",
+      "Support teams migrating and modernizing applications"
+    ],
+    "requirements": [
+      "Hands-on experience with a major cloud provider and infrastructure as code",
+      "Solid grounding in networking, identity and security",
+      "Experience with containers and CI/CD",
+      "A collaborative approach to enabling other teams"
+    ]
+  }
+]

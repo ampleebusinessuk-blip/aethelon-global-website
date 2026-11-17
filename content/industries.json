@@ -1,0 +1,404 @@
+[
+  {
+    "slug": "financial-services",
+    "name": "Financial services",
+    "tagline": "trusted, modern, and ready",
+    "summary": "We help banks, insurers, and investment firms modernize safely, serve customers better, and put AI to work within strict regulatory limits.",
+    "intro": "Financial services firms face a tough balance. Customers expect fast, personal digital service, regulators expect careful control, and aging core systems make both harder than they should be. We help banks, insurers, and investment firms move forward without putting trust at risk. That means modernizing core platforms in safe steps, using data and AI to improve service and reduce fraud, and building governance that satisfies regulators without slowing every decision. We bring people who understand the industry's rules and the technology needed to work well within them.",
+    "challenges": [
+      {
+        "title": "Aging core systems",
+        "text": "Decades-old core platforms make it slow and costly to launch new products, connect with partners, or meet new reporting rules, while the risk of replacing them keeps many firms stuck in place."
+      },
+      {
+        "title": "Rising customer expectations",
+        "text": "Customers compare their bank or insurer to the best digital experiences they use anywhere, and they expect quick answers, simple processes, and advice that reflects their real financial situation."
+      },
+      {
+        "title": "AI under close scrutiny",
+        "text": "Firms want to use AI for service, risk, and operations, but regulators expect clear explanations, fair outcomes, and strong controls, which makes moving from pilot to production especially demanding."
+      }
+    ],
+    "help": [
+      {
+        "title": "Modernize the core safely",
+        "text": "We replace legacy banking and policy systems step by step, with careful testing and parallel runs, so new capabilities arrive sooner while customer accounts and records stay accurate and secure.",
+        "service": "legacy-modernization"
+      },
+      {
+        "title": "Put AI to work responsibly",
+        "text": "We help you choose AI use cases with clear value, then build them with model governance, explainability, and human review that stand up to internal audit and regulatory examination.",
+        "service": "ai-strategy"
+      },
+      {
+        "title": "Simplify customer journeys",
+        "text": "We redesign key journeys like onboarding, claims, and lending to remove friction, cut paperwork, and give customers clear updates, while keeping the checks that compliance teams require.",
+        "service": "customer-experience"
+      }
+    ],
+    "image": "/assets/images/hero-4.jpg",
+    "related_stories": [],
+    "related_posts": [
+      "modernizing-mainframe-without-big-bang",
+      "responsible-ai-product-feature"
+    ]
+  },
+  {
+    "slug": "healthcare",
+    "name": "Healthcare",
+    "tagline": "simpler paths to better care",
+    "summary": "We help health systems, payers, and life sciences organizations simplify access, support clinicians, and use data to improve care.",
+    "intro": "Healthcare organizations are under pressure from every direction. Patients want easier access, clinicians are stretched thin, costs keep rising, and data sits scattered across systems that do not talk to each other. We help health systems, payers, and life sciences organizations make care simpler to reach and easier to deliver. We design patient and member experiences with empathy, connect clinical and operational data safely, and apply AI where it can reduce paperwork and give care teams time back. Privacy and safety guide every decision we make.",
+    "challenges": [
+      {
+        "title": "Hard-to-navigate access",
+        "text": "Patients and members struggle to find the right care, book appointments, understand coverage, and get answers, which leads to delayed care, frustration, and higher costs for everyone involved."
+      },
+      {
+        "title": "Clinician burnout",
+        "text": "Clinicians spend large parts of their day on documentation and administrative tasks, which takes time away from patients and contributes to fatigue, turnover, and staffing gaps across care settings."
+      },
+      {
+        "title": "Fragmented health data",
+        "text": "Clinical, claims, and operational data live in separate systems, making it hard to see the full picture of a patient, coordinate care across settings, or measure outcomes reliably over time."
+      }
+    ],
+    "help": [
+      {
+        "title": "Simplify access to care",
+        "text": "We redesign how patients and members find, schedule, and pay for care, with clear digital tools and well-supported contact centers that make each step easier to understand and complete.",
+        "service": "customer-experience"
+      },
+      {
+        "title": "Give clinicians time back",
+        "text": "We apply AI carefully to tasks like documentation, prior authorization, and inbox management, with clinicians involved in design and review so the tools fit real workflows and stay safe.",
+        "service": "ai-strategy"
+      },
+      {
+        "title": "Connect health data safely",
+        "text": "We bring clinical, claims, and operational data together on secure, well-governed platforms, so care teams and analysts can see a fuller picture while privacy rules are respected throughout.",
+        "service": "data-analytics"
+      }
+    ],
+    "image": "/assets/images/story-9.jpg",
+    "related_stories": [
+      "simplifying-access-to-care"
+    ],
+    "related_posts": [
+      "contact-center-growth-engine",
+      "responsible-ai-product-feature"
+    ]
+  },
+  {
+    "slug": "public-sector",
+    "name": "Public sector",
+    "tagline": "better services for everyone",
+    "summary": "We help government agencies and nonprofits deliver services that are simpler, fairer, and built on data they can share responsibly.",
+    "intro": "Public sector organizations serve everyone, often with tight budgets, aging systems, and high expectations for accountability. We help government agencies, education systems, and nonprofits deliver services that are easier to use and fairer to access. That includes modernizing legacy systems without disrupting the people who depend on them, sharing data across agencies responsibly to solve complex problems, and designing digital services that work for residents of every background and ability. We respect public procurement realities and focus on lasting capability, not dependence on outside help.",
+    "challenges": [
+      {
+        "title": "Services that are hard to use",
+        "text": "Residents often face confusing forms, long waits, and repeated requests for the same information, especially when a single need spans several programs or agencies with separate processes."
+      },
+      {
+        "title": "Data trapped in silos",
+        "text": "Agencies hold valuable information that could help address issues like housing, health, and employment, but legal, technical, and cultural barriers make it hard to share data safely and usefully."
+      },
+      {
+        "title": "Legacy systems and tight budgets",
+        "text": "Critical programs often run on decades-old systems that are costly to maintain and hard to change, while budgets and procurement rules limit how quickly agencies can modernize them."
+      }
+    ],
+    "help": [
+      {
+        "title": "Share data responsibly",
+        "text": "We help agencies build data-sharing agreements, secure platforms, and governance that let them combine information across programs to understand complex problems and target support where it helps most.",
+        "service": "data-analytics"
+      },
+      {
+        "title": "Modernize critical systems",
+        "text": "We modernize benefits, licensing, and case management systems in phases, so services keep running for residents while agencies gain flexibility, lower costs, and the ability to respond faster.",
+        "service": "legacy-modernization"
+      },
+      {
+        "title": "Build lasting capability",
+        "text": "We train and support public servants as new tools and processes roll out, building internal skills and champions so agencies can keep improving services long after our work ends.",
+        "service": "change-enablement"
+      }
+    ],
+    "image": "/assets/images/story-4.jpg",
+    "related_stories": [
+      "shared-data-housing-insecurity"
+    ],
+    "related_posts": [
+      "modernizing-mainframe-without-big-bang"
+    ]
+  },
+  {
+    "slug": "retail",
+    "name": "Retail & consumer",
+    "tagline": "closer to every customer",
+    "summary": "We help retailers and consumer brands know their customers better, run smarter operations, and use AI to grow profitably.",
+    "intro": "Retail and consumer brands compete on thin margins and shifting customer habits. Shoppers move freely between stores, apps, marketplaces, and social channels, and they expect a consistent, personal experience everywhere. Behind the scenes, supply chains need to respond quickly to demand that is harder than ever to predict. We help retailers and consumer brands connect customer and operational data, personalize marketing and service, and apply AI to forecasting, pricing, and merchandising. The goal is growth that is profitable, with experiences customers notice and remember.",
+    "challenges": [
+      {
+        "title": "Fragmented customer view",
+        "text": "Customer data is spread across stores, websites, loyalty programs, and partners, making it hard to recognize shoppers, personalize offers, or understand the true value of each relationship."
+      },
+      {
+        "title": "Unpredictable demand",
+        "text": "Shifting trends, promotions, and supply disruptions make demand hard to forecast, leading to stockouts on popular items, excess inventory on others, and costly markdowns that erode margin."
+      },
+      {
+        "title": "Data not ready for AI",
+        "text": "Many retailers want to use AI for personalization, pricing, and operations, but inconsistent product, customer, and inventory data keeps promising pilots from scaling across the business."
+      }
+    ],
+    "help": [
+      {
+        "title": "Build AI-ready data",
+        "text": "We bring product, customer, and inventory data together on a modern, governed platform, so analytics and AI tools can draw on accurate information and scale beyond a single pilot.",
+        "service": "data-analytics"
+      },
+      {
+        "title": "Personalize every channel",
+        "text": "We connect customer data, content, and marketing tools so you can tailor offers and messages across store, web, and app, and measure which efforts actually drive sales and loyalty.",
+        "service": "customer-experience"
+      },
+      {
+        "title": "Forecast and plan smarter",
+        "text": "We apply AI to demand forecasting, pricing, and replenishment, helping planners make faster, better-informed decisions that reduce waste, protect margin, and keep the right products on shelves.",
+        "service": "ai-strategy"
+      }
+    ],
+    "image": "/assets/images/story-8.jpg",
+    "related_stories": [
+      "ai-ready-data-in-seven-months"
+    ],
+    "related_posts": [
+      "marketing-growth-engine"
+    ]
+  },
+  {
+    "slug": "media-gaming",
+    "name": "Media & gaming",
+    "tagline": "experiences worth coming back to",
+    "summary": "We help media and gaming companies build engaging experiences, scale reliably, and grow audiences with data and AI.",
+    "intro": "Media and gaming companies live and die by engagement. Audiences have endless choices, attention is hard to earn, and a single poor launch or outage can send players and viewers elsewhere. We help studios, publishers, and streaming services build experiences people want to return to. That means platforms that scale smoothly during big moments, data that reveals how audiences really behave, and AI that helps with personalization, content operations, and player support. We bring engineers who understand live services and the pressure of launch day.",
+    "challenges": [
+      {
+        "title": "Scaling for peak moments",
+        "text": "Launches, live events, and viral moments can multiply traffic in minutes, and any slowdown or outage quickly turns excitement into frustration, negative reviews, and lost players or subscribers."
+      },
+      {
+        "title": "Holding audience attention",
+        "text": "With so many options competing for time, companies need to understand what keeps people engaged, personalize content and offers, and respond quickly when engagement starts to slip."
+      },
+      {
+        "title": "Rising content costs",
+        "text": "Producing, localizing, and moderating content at scale is expensive and slow, putting pressure on teams to work more efficiently without sacrificing the quality and creativity audiences expect."
+      }
+    ],
+    "help": [
+      {
+        "title": "Build platforms that scale",
+        "text": "We design and run cloud platforms built for spiky demand, with load testing, autoscaling, and resilient architecture that keeps games and streams running smoothly when audiences show up at once.",
+        "service": "cloud-platforms"
+      },
+      {
+        "title": "Engineer standout experiences",
+        "text": "We work with your teams to build player and viewer features, from account and social tools to in-game systems, using fast release cycles and close attention to how audiences respond.",
+        "service": "product-engineering"
+      },
+      {
+        "title": "Understand your audiences",
+        "text": "We connect gameplay, viewing, and commerce data into analytics that show what drives engagement and retention, helping teams make better decisions about content, features, and offers.",
+        "service": "data-analytics"
+      }
+    ],
+    "image": "/assets/images/story-1.jpg",
+    "related_stories": [
+      "leveling-up-player-experiences"
+    ],
+    "related_posts": [
+      "agents-in-production-lessons"
+    ]
+  },
+  {
+    "slug": "energy",
+    "name": "Energy & utilities",
+    "tagline": "powering a steady transition",
+    "summary": "We help energy and utility companies modernize operations, improve reliability, and manage the shift to cleaner energy.",
+    "intro": "Energy and utility companies are changing on many fronts at once. They need to keep power and water flowing reliably, connect new renewable sources and storage, meet climate and regulatory goals, and serve customers who expect digital convenience. Much of this rests on operational systems and assets built decades ago. We help utilities and energy providers modernize those systems, use sensor and asset data to predict problems before they happen, and improve the customer experience around billing, outages, and new programs, all while keeping safety at the center.",
+    "challenges": [
+      {
+        "title": "Aging assets and systems",
+        "text": "Grids, plants, and pipelines rely on aging equipment and operational systems, making it harder to prevent failures, plan maintenance, and adapt to new demands like electric vehicles and distributed generation."
+      },
+      {
+        "title": "Managing the energy transition",
+        "text": "Integrating renewables, storage, and new customer programs adds complexity to planning and operations, while regulators and communities expect progress on climate goals without sacrificing reliability or affordability."
+      },
+      {
+        "title": "Customer expectations",
+        "text": "Customers want clear bills, timely outage updates, and easy ways to manage usage or join new programs, but legacy billing and customer systems often make these experiences slow and confusing."
+      }
+    ],
+    "help": [
+      {
+        "title": "Predict and prevent failures",
+        "text": "We combine sensor, maintenance, and weather data with AI models that flag assets at risk, helping crews prioritize work, reduce unplanned outages, and plan investments with better evidence.",
+        "service": "ai-strategy"
+      },
+      {
+        "title": "Modernize operational systems",
+        "text": "We modernize billing, work management, and grid systems in safe phases, reducing maintenance costs and making it easier to launch new programs and respond to changing regulatory requirements.",
+        "service": "legacy-modernization"
+      },
+      {
+        "title": "Run reliable platforms",
+        "text": "We operate and improve the cloud and data platforms behind your operations, with proactive monitoring and strong security, so critical systems stay available and protected around the clock.",
+        "service": "managed-services"
+      }
+    ],
+    "image": "/assets/images/feature-research.jpg",
+    "related_stories": [],
+    "related_posts": [
+      "adaptive-era-long-term-moves",
+      "modernizing-mainframe-without-big-bang"
+    ]
+  },
+  {
+    "slug": "manufacturing",
+    "name": "Manufacturing",
+    "tagline": "one plan, smarter operations",
+    "summary": "We help manufacturers connect planning, operations, and data so they can respond faster and run more efficiently.",
+    "intro": "Manufacturers are expected to deliver more variety, faster, with less waste, while managing volatile supply chains and a shrinking pool of skilled workers. Too often, sales, operations, and finance plan from different numbers, and factory data stays locked in individual plants. We help manufacturers bring planning together, connect plant and enterprise data, and apply analytics and AI to quality, maintenance, and supply decisions. We also modernize the older systems that hold many operations back, so teams can respond to change with confidence instead of scrambling.",
+    "challenges": [
+      {
+        "title": "Disconnected planning",
+        "text": "Sales, operations, and finance often plan from separate spreadsheets and systems, which leads to conflicting numbers, slow decisions, excess inventory, and missed delivery commitments to customers."
+      },
+      {
+        "title": "Supply chain volatility",
+        "text": "Shortages, shipping delays, and sudden shifts in demand make it hard to plan production, and many manufacturers lack the visibility needed to spot problems early and adjust quickly."
+      },
+      {
+        "title": "Plant data left unused",
+        "text": "Machines and production lines generate large volumes of data, but much of it stays in local systems, making it hard to improve quality, predict maintenance needs, or compare performance across plants."
+      }
+    ],
+    "help": [
+      {
+        "title": "Unify sales and operations planning",
+        "text": "We bring sales, operations, and finance into one planning rhythm with shared data and clear decision rights, so leaders can balance demand, supply, and cost with one trusted plan.",
+        "service": "operating-models"
+      },
+      {
+        "title": "Connect plant and enterprise data",
+        "text": "We link factory, supply chain, and business data on modern platforms, giving teams the visibility to spot quality issues, track performance across plants, and respond to disruptions faster.",
+        "service": "data-analytics"
+      },
+      {
+        "title": "Modernize core systems",
+        "text": "We modernize aging planning and production systems in steady phases, reducing downtime risk and making it easier to adopt new tools for scheduling, quality, and maintenance.",
+        "service": "legacy-modernization"
+      }
+    ],
+    "image": "/assets/images/story-6.jpg",
+    "related_stories": [
+      "unified-sales-operations-planning"
+    ],
+    "related_posts": [
+      "ambition-execution-gap"
+    ]
+  },
+  {
+    "slug": "sports-entertainment",
+    "name": "Sports & entertainment",
+    "tagline": "fans at the center",
+    "summary": "We help teams, leagues, and venues deepen fan relationships, run better events, and grow revenue with data and digital tools.",
+    "intro": "Sports and entertainment organizations have something most businesses envy: deeply loyal fans. But turning that passion into lasting relationships and steady revenue takes more than a great season or a sold-out show. Fans expect seamless ticketing, personal content, and smooth experiences at the venue and at home. We help teams, leagues, venues, and live entertainment companies understand their fans, connect data across ticketing, merchandise, and media, and build digital experiences that keep people engaged between events as well as during them.",
+    "challenges": [
+      {
+        "title": "Fans known in fragments",
+        "text": "Ticketing, merchandise, media, and venue systems each hold part of the fan picture, making it hard to recognize fans, personalize offers, or understand who your most valuable supporters are."
+      },
+      {
+        "title": "Engagement between events",
+        "text": "Interest peaks on game day or show night, then fades. Many organizations struggle to stay relevant in the weeks between, when content, community, and offers could keep fans close."
+      },
+      {
+        "title": "Venue experience pressure",
+        "text": "Long lines, slow entry, and clunky mobile tools can sour an otherwise great event, while venues face rising costs and pressure to earn more from every visit."
+      }
+    ],
+    "help": [
+      {
+        "title": "Know your fans better",
+        "text": "We connect ticketing, retail, media, and venue data into a single fan view, so marketing and partnership teams can personalize outreach and understand what keeps fans coming back.",
+        "service": "data-analytics"
+      },
+      {
+        "title": "Keep fans engaged year round",
+        "text": "We design fan journeys across apps, content, and loyalty programs that build connection beyond awareness, turning casual followers into regular attendees, subscribers, and buyers over time.",
+        "service": "customer-experience"
+      },
+      {
+        "title": "Build better fan apps",
+        "text": "We build and improve mobile and web experiences for ticketing, entry, ordering, and content, tested with real fans so they work smoothly when the venue is full and expectations are high.",
+        "service": "product-engineering"
+      }
+    ],
+    "image": "/assets/images/story-7.jpg",
+    "related_stories": [
+      "fan-engagement-beyond-awareness"
+    ],
+    "related_posts": [
+      "marketing-growth-engine"
+    ]
+  },
+  {
+    "slug": "travel",
+    "name": "Travel & hospitality",
+    "tagline": "smoother trips, warmer welcomes",
+    "summary": "We help airlines, hotels, and travel companies simplify every step of the trip and run more resilient operations.",
+    "intro": "Travel and hospitality companies make promises that are tested every day, through peak seasons, weather disruptions, and the simple variety of human needs. Guests and travelers expect easy booking, timely updates, and service that recognizes them, while operations teams juggle tight schedules and complex systems. We help airlines, hotels, cruise lines, and travel companies improve the experience across the whole trip, give frontline staff better tools, and modernize the platforms behind reservations and operations so they hold up when plans change suddenly.",
+    "challenges": [
+      {
+        "title": "Disruptions that frustrate travelers",
+        "text": "Delays, cancellations, and overbookings are inevitable, but slow communication and hard-to-use rebooking tools turn small problems into major frustrations that damage loyalty and drive up service costs."
+      },
+      {
+        "title": "Complex legacy platforms",
+        "text": "Reservations, loyalty, and operations often run on older, tightly linked systems, which makes it slow and risky to add new features, connect partners, or personalize the guest experience."
+      },
+      {
+        "title": "Stretched frontline teams",
+        "text": "Staff at airports, hotels, and contact centers handle high volumes with limited information, making it hard to resolve issues quickly and give the personal service guests remember."
+      }
+    ],
+    "help": [
+      {
+        "title": "Smooth the whole journey",
+        "text": "We redesign booking, check-in, and disruption journeys with clear communication and easy self-service, so travelers feel informed and in control even when plans change unexpectedly.",
+        "service": "customer-experience"
+      },
+      {
+        "title": "Equip frontline staff with AI",
+        "text": "We give agents and frontline teams AI assistance that surfaces guest history, suggests solutions, and handles routine requests, so they can focus on the moments that need a personal touch.",
+        "service": "ai-strategy"
+      },
+      {
+        "title": "Modernize booking platforms",
+        "text": "We move reservation and loyalty systems to modern, flexible platforms in careful steps, so new features and partner connections arrive faster without putting bookings or guest data at risk.",
+        "service": "cloud-platforms"
+      }
+    ],
+    "image": "/assets/images/hero-1.jpg",
+    "related_stories": [],
+    "related_posts": [
+      "contact-center-growth-engine"
+    ]
+  }
+]

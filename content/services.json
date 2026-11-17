@@ -1,0 +1,557 @@
+[
+  {
+    "slug": "ai-strategy",
+    "name": "AI strategy",
+    "group": "Strategy",
+    "tagline": "from pilot to production",
+    "summary": "We help you pick the AI bets worth making, build them responsibly, and get them into daily work where they pay off.",
+    "intro": "Most organizations don't lack AI ideas. They lack a clear way to choose between them, a path to get the promising ones out of the lab, and the guardrails to run them with confidence. We work alongside your leaders and teams to connect AI to the outcomes you already care about, size the effort honestly, and build the data, skills, and governance needed to scale. The goal is simple: fewer experiments that stall, more working solutions that people actually use and trust, and a portfolio you can explain to your board.",
+    "offerings": [
+      {
+        "title": "AI opportunity mapping",
+        "text": "We work through your value chain with business and technology leaders to find where AI can move real numbers, then rank each idea by value, feasibility, risk, and readiness of the data behind it."
+      },
+      {
+        "title": "Pilot to production",
+        "text": "We take promising prototypes and make them production grade, with monitoring, cost controls, human review, and clear ownership, so a demo that impressed a room becomes a tool people rely on."
+      },
+      {
+        "title": "Responsible AI governance",
+        "text": "We set up practical policies, review steps, and risk tiers that fit how your organization already works, so teams can move quickly while legal, security, and compliance stay confident and informed."
+      },
+      {
+        "title": "Agents and automation",
+        "text": "We design AI agents that handle well-defined tasks inside your existing systems, with clear limits, audit trails, and handoffs to people when judgment, empathy, or an exception calls for it."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "20–35%",
+        "label": "typical time saved on targeted workflows"
+      },
+      {
+        "value": "Weeks, not years",
+        "label": "from first idea to working pilot"
+      },
+      {
+        "value": "2–4×",
+        "label": "more pilots that reach production use"
+      }
+    ],
+    "image": "/assets/images/feature-ai.jpg",
+    "related_stories": [
+      "ai-ready-data-in-seven-months"
+    ],
+    "related_posts": [
+      "agents-in-production-lessons",
+      "responsible-ai-product-feature"
+    ],
+    "faq": [
+      {
+        "q": "Where should we start if we have no AI strategy yet?",
+        "a": "Start with a short discovery focused on two or three business problems that already have owners and budgets. We map where AI fits, check the data behind each idea, and leave you with a ranked shortlist and a realistic plan for the first pilot."
+      },
+      {
+        "q": "Do we need perfect data before we begin?",
+        "a": "No. You need data that is good enough for the specific use case, and a plan to improve it as you go. We assess quality early, fix what blocks the first pilot, and build better habits so each later project gets easier and faster."
+      },
+      {
+        "q": "How do you keep AI use safe and compliant?",
+        "a": "We set risk tiers, review steps, and monitoring that match how sensitive each use case is. Low-risk tools move quickly, while higher-risk ones get human oversight, testing for bias and accuracy, and clear records that auditors and regulators can follow."
+      }
+    ]
+  },
+  {
+    "slug": "customer-experience",
+    "name": "Customer experience",
+    "group": "Strategy",
+    "tagline": "every interaction, made easier",
+    "summary": "We design customer journeys that feel simple and personal, then connect the data and teams needed to deliver them every day.",
+    "intro": "Customers judge you on the whole experience, not on any one channel or department. Yet most organizations are built in silos, with marketing, sales, service, and digital teams each owning a slice of the journey. We help you see the experience the way your customers do, find the moments that matter most, and redesign them end to end. Then we connect the data, tools, and ways of working behind the scenes so a better experience is something your teams can deliver consistently, not just describe in a slide.",
+    "offerings": [
+      {
+        "title": "Journey research and design",
+        "text": "We talk with customers and frontline staff, study real behavior, and map the journeys that matter most, then design improvements that remove friction and build trust where people need it."
+      },
+      {
+        "title": "Contact center transformation",
+        "text": "We help service teams resolve more on first contact with better routing, AI assistance for agents, and self-service that actually works, turning the contact center into a source of loyalty and growth."
+      },
+      {
+        "title": "Personalization and marketing",
+        "text": "We connect customer data, content, and decision tools so you can send the right message at the right moment, measure what works, and stop spending on campaigns that do not move anyone."
+      },
+      {
+        "title": "Customer data foundations",
+        "text": "We bring customer records together into a trusted, consented view that sales, service, and marketing can all use, so every team sees the same customer and acts on the same facts."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "10–25%",
+        "label": "typical lift in customer satisfaction scores"
+      },
+      {
+        "value": "15–30%",
+        "label": "fewer repeat contacts to service teams"
+      },
+      {
+        "value": "One view",
+        "label": "of each customer across every team"
+      }
+    ],
+    "image": "/assets/images/story-2.jpg",
+    "related_stories": [
+      "simplifying-access-to-care",
+      "fan-engagement-beyond-awareness"
+    ],
+    "related_posts": [
+      "contact-center-growth-engine",
+      "marketing-growth-engine"
+    ],
+    "faq": [
+      {
+        "q": "How do you decide which journeys to fix first?",
+        "a": "We weigh each journey by its impact on revenue, cost, and customer loyalty, along with how hard it is to change. Usually two or three journeys stand out clearly, and we start there to show value quickly and build momentum."
+      },
+      {
+        "q": "Will AI replace our service agents?",
+        "a": "That is not our aim. We use AI to handle simple requests and give agents better information in the moment, so people spend their time on complex, emotional, or high-value conversations where a human touch makes the biggest difference to customers."
+      },
+      {
+        "q": "Can you work with the tools we already own?",
+        "a": "Yes. Most clients already have capable platforms that are underused or poorly connected. We start by getting more from what you have, and only recommend new tools when there is a clear gap that existing ones cannot reasonably close."
+      }
+    ]
+  },
+  {
+    "slug": "operating-models",
+    "name": "Operating models",
+    "group": "Strategy",
+    "tagline": "built to adapt, not stall",
+    "summary": "We help you organize teams, decisions, and funding so strategy turns into steady progress instead of stalled plans.",
+    "intro": "A strong strategy can still fail if the organization behind it is slow, siloed, or unclear about who decides what. We help leaders close the gap between ambition and execution by reshaping how work flows across teams. That can mean organizing around products instead of projects, rethinking how funding is allocated, clarifying decision rights, or setting up shared planning across functions. We design with the people who will live with the changes, test them in practice, and adjust based on what we learn, so the new model holds up under real pressure.",
+    "offerings": [
+      {
+        "title": "Product operating model",
+        "text": "We help you shift from one-off projects to long-lived product teams with clear missions, stable funding, and measurable outcomes, so teams can keep improving what they build rather than starting over."
+      },
+      {
+        "title": "Integrated business planning",
+        "text": "We connect sales, operations, finance, and supply planning into one regular rhythm, so leaders make decisions from a shared set of numbers and act faster when conditions change."
+      },
+      {
+        "title": "Decision rights and governance",
+        "text": "We clarify who decides what, how quickly, and with what information, removing layers of approval that slow work down while keeping the right checks in place for risk and spending."
+      },
+      {
+        "title": "Portfolio and funding design",
+        "text": "We help you fund outcomes rather than activities, rebalance investment through the year, and retire efforts that no longer earn their place, freeing capacity for the work that matters most."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "25–40%",
+        "label": "typical reduction in decision cycle time"
+      },
+      {
+        "value": "2×",
+        "label": "faster from strategy to funded work"
+      },
+      {
+        "value": "One plan",
+        "label": "shared across finance, sales, and operations"
+      }
+    ],
+    "image": "/assets/images/story-3.jpg",
+    "related_stories": [
+      "unified-sales-operations-planning"
+    ],
+    "related_posts": [
+      "ambition-execution-gap",
+      "adaptive-era-long-term-moves"
+    ],
+    "faq": [
+      {
+        "q": "Is this just a reorganization?",
+        "a": "No. Changing the org chart is rarely enough on its own. We look at how decisions are made, how money moves, how teams plan together, and how success is measured, then change the pieces that are actually holding progress back."
+      },
+      {
+        "q": "How long does an operating model change take?",
+        "a": "Design work usually takes a few months, but the change itself rolls out in waves. We start with one or two areas, learn what works, and expand from there, so you see results early instead of waiting for a single big launch."
+      },
+      {
+        "q": "How do you get leaders and teams on board?",
+        "a": "We involve the people affected from the start, through workshops, pilots, and honest conversations about tradeoffs. When people help shape the model and see it work in practice, they are far more likely to adopt it and keep it going."
+      }
+    ]
+  },
+  {
+    "slug": "cloud-platforms",
+    "name": "Cloud & platforms",
+    "group": "Technology",
+    "tagline": "a foundation that keeps up",
+    "summary": "We design, migrate, and run cloud platforms that are secure, cost aware, and ready for the data and AI work ahead.",
+    "intro": "The cloud is no longer a destination. It is the foundation for nearly everything your teams want to do next, from faster releases to data and AI at scale. We help you plan the right path, move workloads with care, and build internal platforms that make it easy for developers to do the right thing. Along the way, we put security, reliability, and cost management in place from the start, so your cloud environment stays healthy and affordable as it grows instead of becoming another source of surprises.",
+    "offerings": [
+      {
+        "title": "Cloud strategy and migration",
+        "text": "We assess your applications, choose the right approach for each one, and plan migrations in sensible waves that reduce risk, keep the business running, and show value early in the journey."
+      },
+      {
+        "title": "Platform engineering",
+        "text": "We build internal developer platforms with paved paths for building, testing, and deploying software, so teams spend less time on setup and more time shipping features customers notice."
+      },
+      {
+        "title": "Cloud cost management",
+        "text": "We give finance and engineering a shared view of cloud spending, find waste, set budgets and alerts, and build habits that keep costs in line with the value each workload delivers."
+      },
+      {
+        "title": "Security and resilience",
+        "text": "We design secure landing zones, identity controls, and recovery plans that protect your data and keep critical systems available, with automated checks that catch problems before they reach production."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "15–30%",
+        "label": "typical reduction in cloud running costs"
+      },
+      {
+        "value": "3×",
+        "label": "more frequent, lower-risk software releases"
+      },
+      {
+        "value": "Days, not weeks",
+        "label": "to give teams new environments"
+      }
+    ],
+    "image": "/assets/images/story-10.jpg",
+    "related_stories": [
+      "leveling-up-player-experiences"
+    ],
+    "related_posts": [
+      "adaptive-era-long-term-moves"
+    ],
+    "faq": [
+      {
+        "q": "Should we move everything to the cloud?",
+        "a": "Not necessarily. Some systems benefit greatly from moving, others are better modernized first, and a few should stay where they are or be retired. We assess each workload on its merits and recommend the approach that makes the most sense for it."
+      },
+      {
+        "q": "How do you keep cloud costs from growing out of control?",
+        "a": "We set up tagging, budgets, and dashboards so every team can see what it spends. Then we right-size resources, use commitments wisely, and build regular reviews into the rhythm of the business so savings last beyond the first cleanup effort."
+      },
+      {
+        "q": "Do you work with more than one cloud provider?",
+        "a": "Yes. We are independent and work across the major cloud providers. We help you choose based on your needs, skills, and existing investments, and we design for portability where it matters without adding complexity you do not need."
+      }
+    ]
+  },
+  {
+    "slug": "data-analytics",
+    "name": "Data & analytics",
+    "group": "Technology",
+    "tagline": "data people actually trust",
+    "summary": "We build modern data foundations and analytics that help people make better decisions and get your data ready for AI.",
+    "intro": "Every organization says it wants to be data driven, but many still argue over whose numbers are right. We help you build data foundations that are reliable, well governed, and easy to use, so people spend less time hunting for answers and more time acting on them. We modernize data platforms, set clear ownership and quality standards, and create dashboards and models that fit the questions your teams actually ask. The same foundation also makes your data ready for AI, which is where many initiatives quietly succeed or fail.",
+    "offerings": [
+      {
+        "title": "Modern data platforms",
+        "text": "We design and build scalable data platforms that bring together data from across the business, with pipelines that are tested, documented, and monitored so teams can depend on what they find."
+      },
+      {
+        "title": "Data governance and quality",
+        "text": "We set clear ownership, definitions, and quality checks for your most important data, with lightweight processes that people follow because they make work easier rather than adding red tape."
+      },
+      {
+        "title": "Analytics and insights",
+        "text": "We work with business teams to define the metrics that matter and build dashboards and reports that answer real questions, then help people build the habits to use them in decisions."
+      },
+      {
+        "title": "AI-ready data",
+        "text": "We prepare data for machine learning and generative AI, from cataloging and labeling to privacy controls and retrieval design, so models are built on information that is accurate, current, and safe to use."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "30–50%",
+        "label": "typical reduction in time spent preparing data"
+      },
+      {
+        "value": "Months, not years",
+        "label": "to an AI-ready data foundation"
+      },
+      {
+        "value": "One version",
+        "label": "of the numbers leaders rely on"
+      }
+    ],
+    "image": "/assets/images/story-5.jpg",
+    "related_stories": [
+      "ai-ready-data-in-seven-months",
+      "shared-data-housing-insecurity"
+    ],
+    "related_posts": [
+      "agents-in-production-lessons"
+    ],
+    "faq": [
+      {
+        "q": "What does AI-ready data actually mean?",
+        "a": "It means data that is accurate, well described, properly secured, and easy for models to reach. In practice that includes clear ownership, quality checks, consistent definitions, and access controls, plus the right structure for the specific AI use cases you plan to build."
+      },
+      {
+        "q": "Do we need to replace our current data platform?",
+        "a": "Not always. We start by assessing what works today and what is holding you back. Sometimes targeted improvements are enough, and sometimes a phased move to a modern platform makes sense. Either way, we avoid disrupting reports people depend on."
+      },
+      {
+        "q": "How do you get people to use the dashboards you build?",
+        "a": "We design with the people who will use them, starting from the decisions they need to make. Then we support adoption with training, office hours, and champions inside each team, and we retire old reports so there is one clear place to look."
+      }
+    ]
+  },
+  {
+    "slug": "legacy-modernization",
+    "name": "Legacy modernization",
+    "group": "Technology",
+    "tagline": "modernize without the big bang",
+    "summary": "We modernize aging systems step by step, reducing risk and cost while keeping the business running smoothly throughout.",
+    "intro": "Legacy systems often run the most important parts of the business, which is exactly why replacing them feels so risky. Large rewrites have a long record of running over budget and under delivering. We take a steadier approach. We help you understand what your systems really do, decide what to keep, rebuild, or retire, and modernize in small, safe steps that deliver value along the way. AI tools now help us read and document old code faster, which shortens the hardest part of the work without cutting corners.",
+    "offerings": [
+      {
+        "title": "System assessment and roadmap",
+        "text": "We map what your legacy systems do, how they connect, and where the risks and costs sit, then build a phased roadmap that ties each modernization step to a clear business benefit."
+      },
+      {
+        "title": "Incremental modernization",
+        "text": "We replace legacy functions piece by piece behind stable interfaces, so new services take over gradually while the old system keeps running, and the business never has to bet everything on one cutover."
+      },
+      {
+        "title": "AI-assisted code understanding",
+        "text": "We use AI tools, reviewed by experienced engineers, to analyze and document older code, surface business rules buried in it, and speed up the work of translating them into modern systems."
+      },
+      {
+        "title": "Mainframe and data migration",
+        "text": "We move mainframe workloads and data to modern platforms with careful testing, parallel runs, and reconciliation, so records stay accurate and teams can trust the new system from the first day."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "20–40%",
+        "label": "typical reduction in system running costs"
+      },
+      {
+        "value": "30–50%",
+        "label": "faster analysis of legacy code"
+      },
+      {
+        "value": "Zero",
+        "label": "big-bang cutovers needed to get there"
+      }
+    ],
+    "image": "/assets/images/feature-modernize.jpg",
+    "related_stories": [
+      "unified-sales-operations-planning"
+    ],
+    "related_posts": [
+      "modernizing-mainframe-without-big-bang"
+    ],
+    "faq": [
+      {
+        "q": "Why not just rewrite the whole system at once?",
+        "a": "Full rewrites take years, freeze new features, and often miss rules hidden in the old code. Modernizing in steps lets you deliver value early, learn as you go, and reduce risk, because each change is small enough to test, release, and roll back if needed."
+      },
+      {
+        "q": "How does AI help with legacy modernization?",
+        "a": "AI tools can read large amounts of older code quickly, summarize what it does, and suggest translations. Our engineers review and test everything, but the tools shorten discovery and documentation, which are often the slowest and most expensive parts of the work."
+      },
+      {
+        "q": "What happens to the people who know our old systems?",
+        "a": "They become some of the most important people on the project. Their knowledge of how the business really works is essential, and we pair them with modern engineering teams so that knowledge is captured, shared, and carried into the new systems."
+      }
+    ]
+  },
+  {
+    "slug": "product-engineering",
+    "name": "Product engineering",
+    "group": "Delivery",
+    "tagline": "products people love using",
+    "summary": "We design and build digital products with your teams, from first idea to launch and steady improvement after.",
+    "intro": "Great digital products come from small teams that understand their users, build in short cycles, and care about quality. We bring designers, engineers, and product managers who work side by side with your people to shape ideas, test them early, and ship software that holds up in the real world. We build web, mobile, and connected products, and increasingly products with AI features at their core. Just as important, we leave your teams stronger, with the practices and confidence to keep improving the product long after launch.",
+    "offerings": [
+      {
+        "title": "Product discovery",
+        "text": "We test ideas with real users before committing to a full build, using research, prototypes, and quick experiments to learn what people need and which features are worth the investment."
+      },
+      {
+        "title": "Web and mobile development",
+        "text": "We build reliable, accessible web and mobile applications with modern engineering practices, automated testing, and continuous delivery, so releases are frequent, predictable, and easy to roll back if needed."
+      },
+      {
+        "title": "AI-powered product features",
+        "text": "We design and build AI features such as smart search, assistants, and recommendations, with careful attention to accuracy, privacy, and the user experience when the model gets something wrong."
+      },
+      {
+        "title": "Engineering excellence",
+        "text": "We help teams adopt practices like automated testing, code review, observability, and continuous delivery, raising quality and speed together rather than trading one for the other."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "2–3×",
+        "label": "typical increase in release frequency"
+      },
+      {
+        "value": "25–40%",
+        "label": "fewer defects reaching production"
+      },
+      {
+        "value": "Weeks",
+        "label": "from concept to testable prototype"
+      }
+    ],
+    "image": "/assets/images/hero-6.jpg",
+    "related_stories": [
+      "leveling-up-player-experiences",
+      "simplifying-access-to-care"
+    ],
+    "related_posts": [
+      "responsible-ai-product-feature"
+    ],
+    "faq": [
+      {
+        "q": "Do you build products for us or with us?",
+        "a": "With you, whenever possible. We form blended teams with your designers, engineers, and product owners so knowledge stays in your organization. If you need us to lead the build at first, we plan a clear handoff from the start of the engagement."
+      },
+      {
+        "q": "How do you decide what to build first?",
+        "a": "We start with the problems users face and the outcomes the business needs. Through research and quick prototypes, we test the riskiest assumptions early, then focus the first release on the smallest set of features that delivers real value to people."
+      },
+      {
+        "q": "Can you add AI features to an existing product?",
+        "a": "Yes. We look for places where AI can genuinely help users, such as search, summaries, or guidance, then design and test those features carefully. We also plan for monitoring, feedback, and fallbacks so the product behaves well when the model is unsure."
+      }
+    ]
+  },
+  {
+    "slug": "managed-services",
+    "name": "Managed services",
+    "group": "Delivery",
+    "tagline": "steady hands, always on",
+    "summary": "We run and improve your platforms, data, and applications day to day, so your teams can focus on what is next.",
+    "intro": "Building something is only the beginning. Keeping it secure, reliable, and improving over time takes steady attention that many internal teams struggle to give while also delivering new work. Our managed services teams take on the day-to-day running of your cloud platforms, data pipelines, applications, and AI solutions. We do more than keep the lights on. We monitor proactively, automate routine tasks, and look for improvements every month, with clear reporting so you always know how your systems are performing and what we are doing about it.",
+    "offerings": [
+      {
+        "title": "Cloud operations",
+        "text": "We monitor, patch, and tune your cloud environments around the clock, respond quickly to incidents, and keep security and cost controls current as your workloads and the platforms beneath them change."
+      },
+      {
+        "title": "Data and analytics operations",
+        "text": "We keep data pipelines running on time, fix quality issues before they reach reports, and handle routine changes, so business teams can count on fresh, accurate data every morning."
+      },
+      {
+        "title": "Application support",
+        "text": "We support and enhance your business applications with clear service levels, a steady backlog of improvements, and engineers who know your systems well enough to fix problems at the root."
+      },
+      {
+        "title": "AI operations",
+        "text": "We monitor AI models and agents in production for accuracy, cost, and drift, manage updates and retraining, and keep the human review steps working as usage grows across the business."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "20–35%",
+        "label": "typical reduction in operating costs"
+      },
+      {
+        "value": "40–60%",
+        "label": "fewer recurring incidents over time"
+      },
+      {
+        "value": "24/7",
+        "label": "monitoring with clear monthly reporting"
+      }
+    ],
+    "image": "/assets/images/story-12.jpg",
+    "related_stories": [
+      "leveling-up-player-experiences"
+    ],
+    "related_posts": [
+      "agents-in-production-lessons"
+    ],
+    "faq": [
+      {
+        "q": "How is this different from traditional outsourcing?",
+        "a": "We focus on improvement, not just ticket volume. Our teams automate routine work, fix root causes, and suggest changes each month. You keep full visibility and control, and our engineers often come from the same teams that helped build your systems."
+      },
+      {
+        "q": "Can you take over systems someone else built?",
+        "a": "Yes. We start with a structured transition that documents the systems, captures knowledge from current teams, and sets up monitoring. We run in parallel until we are confident, so service stays stable while ownership moves over to us."
+      },
+      {
+        "q": "How do you measure success?",
+        "a": "We agree on service levels and business measures together, such as uptime, response times, data freshness, and cost. You get clear monthly reports that show performance, trends, and the improvements we made, along with what we plan to do next."
+      }
+    ]
+  },
+  {
+    "slug": "change-enablement",
+    "name": "Change & enablement",
+    "group": "Delivery",
+    "tagline": "change that actually sticks",
+    "summary": "We help people adopt new tools and ways of working with confidence, so your investments deliver the value you planned.",
+    "intro": "Technology rarely fails on its own. Projects fall short when people do not understand the change, do not have time to learn it, or do not see why it matters to them. We help you bring people along from the start. We assess readiness, design communication and training that fit how your teams learn, and build networks of champions who keep momentum going. With AI changing many roles at once, this work matters more than ever. We focus on practical skills and real adoption, measured by how work actually changes.",
+    "offerings": [
+      {
+        "title": "Change strategy and planning",
+        "text": "We assess how ready your organization is for a change, identify the groups most affected, and build a plan for communication, training, and support that matches the scale and pace of the work."
+      },
+      {
+        "title": "AI skills and literacy",
+        "text": "We build practical AI skills across your workforce, from leaders setting direction to frontline teams using new tools, with hands-on learning that focuses on real tasks rather than theory."
+      },
+      {
+        "title": "Training and adoption",
+        "text": "We design role-based training, guides, and in-the-moment support that help people get comfortable with new systems quickly, then track adoption and step in where people are struggling."
+      },
+      {
+        "title": "Leadership alignment",
+        "text": "We help leaders agree on the why behind a change, speak about it consistently, and model the new behaviors, because people watch what leaders do far more closely than what they say."
+      }
+    ],
+    "outcomes": [
+      {
+        "value": "2×",
+        "label": "typical increase in tool adoption rates"
+      },
+      {
+        "value": "30–50%",
+        "label": "faster time to proficiency for staff"
+      },
+      {
+        "value": "Lasting",
+        "label": "habits measured months after launch"
+      }
+    ],
+    "image": "/assets/images/hero-3.jpg",
+    "related_stories": [
+      "shared-data-housing-insecurity"
+    ],
+    "related_posts": [
+      "ambition-execution-gap"
+    ],
+    "faq": [
+      {
+        "q": "When should change management start on a project?",
+        "a": "As early as possible, ideally while the solution is still being designed. Involving people early surfaces concerns sooner, improves the design, and builds trust. Starting change work a few weeks before launch is common, but it almost always leads to slower adoption."
+      },
+      {
+        "q": "How do you help people adapt to AI in their jobs?",
+        "a": "We start by being honest about what will change and what will not. Then we give people hands-on time with the tools on their real work, create space for questions, and show how AI can take on tedious tasks so they can focus elsewhere."
+      },
+      {
+        "q": "How do you know if a change has really been adopted?",
+        "a": "We look past training completion rates to actual behavior, such as how often tools are used, whether old workarounds disappear, and whether business results improve. We measure several months after launch, when early enthusiasm has faded and real habits show."
+      }
+    ]
+  }
+]

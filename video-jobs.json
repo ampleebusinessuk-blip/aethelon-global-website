@@ -1,0 +1,66 @@
+{
+  "default_model": "google/veo-3.1-lite",
+  "style": "Photorealistic documentary-style footage, natural window light, warm and soft, shallow depth of field, 35mm lens, gentle handheld or slow dolly movement, candid and unposed, diverse real-looking people, modern but lived-in spaces with plants and wood, muted warm colour grade, no text, no logos, no graphics, no captions, seamless loop.",
+  "jobs": [
+    {
+      "id": "hero-1",
+      "output": "assets/videos/hero-1.mp4",
+      "duration": 6,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "prompt": "A woman in her late twenties with short tousled blonde hair, wearing a loose mustard-yellow shirt, leans back in a grey upholstered lounge chair in a sunlit room, laughing softly and touching her chin, eyes half-closed. Warm afternoon sun streams across her face through slatted blinds, a large green houseplant at the edge of frame. Camera slightly above, slowly drifting right."
+    },
+    {
+      "id": "hero-2",
+      "output": "assets/videos/hero-2.mp4",
+      "duration": 6,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "prompt": "A woman in her thirties with dark hair tied back and round tortoiseshell glasses, wearing a terracotta linen shirt, sits at a wooden table by a tall window in a cosy apartment, writing in a notebook and glancing at an open laptop. Hanging Edison bulb, plants and a softly blurred doorway behind her. Camera slowly pushes in from behind the out-of-focus laptop screen in the foreground."
+    },
+    {
+      "id": "hero-3",
+      "output": "assets/videos/hero-3.mp4",
+      "duration": 8,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "prompt": "High-angle shot of a small team in a plant-filled studio office with exposed brick and large windows. A young South Asian woman in a navy jumper with thin red stripes sits at a desk with a tablet, listening intently to a colleague in a brown sweater seated across from her. Another colleague walks quickly through the foreground as a long-exposure motion-blur streak while the seated people stay sharp. Slow, steady camera."
+    },
+    {
+      "id": "hero-4",
+      "output": "assets/videos/hero-4.mp4",
+      "duration": 8,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "prompt": "Side-on shot of a meeting at a long table in a bright, minimal concrete-walled room with a floor-to-ceiling window overlooking city buildings. In the foreground a Black man with glasses and a dark turtleneck rests his hand thoughtfully at his chin; behind him a woman with a short platinum bob and clear-frame glasses in a white blouse listens, pen in hand, papers with charts and a black coffee mug on the table. Cool daylight, slow dolly left. Cooler daylight colour grade."
+    },
+    {
+      "id": "hero-5",
+      "output": "assets/videos/hero-5.mp4",
+      "duration": 6,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "prompt": "A cheerful open-plan office decorated with colourful balloons. Several colleagues in business casual dance and celebrate with exaggerated joy around a large, old-fashioned beige refrigerator-sized computer server cabinet being wheeled away, as if retiring it. A man in a light checked shirt does an awkward happy dance in the centre, a woman in an olive-green suit gasps with delight, an older man in a navy blazer cheers. Bright, upbeat, slightly comedic commercial feel, handheld. Brighter, more saturated grade."
+    },
+    {
+      "id": "film-ai",
+      "output": "assets/videos/film-ai.mp4",
+      "duration": 8,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "audio": true,
+      "loop": false,
+      "prompt": "An 8-second brand-style montage with three quick cuts: people collaborating at a whiteboard, a developer smiling at code on a monitor, a customer-service agent helping someone on a headset, a doctor reviewing a tablet with a patient, a retail worker using a handheld scanner, ending on a wide shot of a team laughing together by a window at sunset. Uplifting instrumental music."
+    },
+    {
+      "id": "film-legacy",
+      "output": "assets/videos/film-legacy.mp4",
+      "duration": 8,
+      "aspect_ratio": "16:9",
+      "resolution": "720p",
+      "audio": true,
+      "loop": false,
+      "prompt": "An 8-second comedic moment: an office team holds a mock retirement party for an enormous outdated server cabinet. A colleague gives a heartfelt speech, a cake with a single candle sits on top of the cabinet, people hug it goodbye, then it is wheeled out the door to applause and the team turns to a sleek laptop with relief. Light, playful commercial tone with cheerful music. Brighter grade."
+    }
+  ]
+}

@@ -1,7 +1,21 @@
+# Only the built website goes into the image
 .git
 .gitignore
-.DS_Store
-*.zip
 .env
 .env.*
-node_modules
+.claude
+__pycache__
+*.pyc
+.DS_Store
+content
+translations
+*.py
+README.md
+VIDEO-PROMPTS.md
+image-jobs.json
+video-jobs.json
+assets/videos/generation-log.jsonl
+assets/videos/.gitkeep
+Dockerfile
+docker-compose.yml
+.dockerignore

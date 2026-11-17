@@ -1,6 +1,10 @@
-.DS_Store
-*.zip
+# Private: never share or upload this file
 .env
 .env.*
+# Local tools and system files
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
 node_modules/
-

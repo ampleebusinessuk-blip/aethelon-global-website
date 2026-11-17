@@ -1,0 +1,307 @@
+{
+  "_note": "Company details used across the site. Edit any value, then run: python3 build.py (and python3 translate.py if you changed visible text).",
+  "name": "Aethelon Global",
+  "url": "https://aethelonglobal.com",
+  "tagline": "Business, technology & AI consulting",
+  "description": "Aethelon Global is a business, technology and AI consulting company that helps organizations dream bigger, move faster and build what's next.",
+  "email": "hello@aethelonglobal.com",
+  "careers_email": "careers@aethelonglobal.com",
+  "press_email": "press@aethelonglobal.com",
+  "phone": "",
+  "offices": [
+    {
+      "country": "South Africa",
+      "city": "Durban",
+      "code": "za",
+      "abbr": "Za",
+      "lines": [
+        "56 Sterngrove Avenue",
+        "Woodview, Phoenix",
+        "KwaZulu-Natal 4068",
+        "South Africa"
+      ]
+    },
+    {
+      "country": "United States",
+      "city": "Wilmington",
+      "code": "us",
+      "abbr": "Us",
+      "lines": [
+        "1201 N Orange St, Suite 7665",
+        "Wilmington, DE 19801-1186",
+        "United States"
+      ]
+    },
+    {
+      "country": "Morocco",
+      "city": "Casablanca",
+      "code": "ma",
+      "abbr": "Ma",
+      "lines": [
+        "16 Bd Abdelmoumen",
+        "Lot Manazyl Al Maimoune, Étage 4, Appt 25",
+        "Casablanca",
+        "Morocco"
+      ]
+    }
+  ],
+  "social": {
+    "LinkedIn": "https://www.linkedin.com/",
+    "Instagram": "https://www.instagram.com/",
+    "YouTube": "https://www.youtube.com/"
+  },
+  "values": [
+    {
+      "title": "Lead with outcomes",
+      "text": "We measure success by what changes for your customers and your people, not by the size of the deck."
+    },
+    {
+      "title": "Deeply human",
+      "text": "Technology serves people. We design with the people who will use it, and we bring empathy to every room we're in."
+    },
+    {
+      "title": "Build to last",
+      "text": "We leave teams more capable than we found them, with systems they understand, own and can keep improving."
+    },
+    {
+      "title": "Be candid, be kind",
+      "text": "We say what we see, early and plainly — and we do it with respect for the people doing the hard work."
+    }
+  ],
+  "approach": [
+    {
+      "title": "Discover",
+      "text": "Understand the business goal, the people involved and the constraints — then agree what success looks like."
+    },
+    {
+      "title": "Design",
+      "text": "Shape the smallest valuable solution and the path to scale, testing ideas with real users early."
+    },
+    {
+      "title": "Deliver",
+      "text": "Build in short, visible increments with your teams, measuring value from the first release."
+    },
+    {
+      "title": "Scale",
+      "text": "Hand over with confidence: documentation, skills, operating rhythms and a roadmap for what's next."
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Flexible working",
+      "text": "Hybrid by default, with the trust to shape your week around your work and your life."
+    },
+    {
+      "title": "Learning budget",
+      "text": "An annual budget and protected time for courses, certifications and conferences."
+    },
+    {
+      "title": "Health & wellbeing",
+      "text": "Comprehensive health cover, mental-health support and wellbeing days."
+    },
+    {
+      "title": "Time to recharge",
+      "text": "Generous paid leave, plus your birthday off and company-wide recharge days."
+    },
+    {
+      "title": "Meaningful work",
+      "text": "Projects that matter, with clients who want to build something real together."
+    },
+    {
+      "title": "Grow your way",
+      "text": "Clear career paths for specialists and leaders, with mentors who invest in you."
+    }
+  ],
+  "regions_note": "Region & language picker. Each language link opens the same page in that language (en = /, de = /de/, fr = /fr/, es = /es/, ar = /ar/). The link marked primary is highlighted when you're browsing in that language.",
+  "regions": [
+    {
+      "code": "gb",
+      "country": "United Kingdom",
+      "current": true,
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "code": "ie",
+      "country": "Ireland",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "code": "us",
+      "country": "United States",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "code": "ca",
+      "country": "Canada",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        },
+        {
+          "label": "Français",
+          "lang": "fr"
+        }
+      ]
+    },
+    {
+      "code": "fr",
+      "country": "France",
+      "languages": [
+        {
+          "label": "Français",
+          "lang": "fr",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "code": "de",
+      "country": "Germany",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        },
+        {
+          "label": "Deutsch",
+          "lang": "de",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "code": "es",
+      "country": "Spain",
+      "languages": [
+        {
+          "label": "Español",
+          "lang": "es",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "code": "ae",
+      "country": "United Arab Emirates",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        },
+        {
+          "label": "العربية",
+          "lang": "ar",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "code": "in",
+      "country": "India",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        },
+        {
+          "label": "हिन्दी",
+          "lang": "hi",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "code": "sg",
+      "country": "Singapore",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "code": "au",
+      "country": "Australia",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "code": "za",
+      "country": "South Africa",
+      "languages": [
+        {
+          "label": "English",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "code": "ma",
+      "country": "Morocco",
+      "languages": [
+        {
+          "label": "Français",
+          "lang": "fr"
+        },
+        {
+          "label": "العربية",
+          "lang": "ar"
+        },
+        {
+          "label": "English",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "source": true
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "dir": "rtl"
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी"
+    }
+  ]
+}

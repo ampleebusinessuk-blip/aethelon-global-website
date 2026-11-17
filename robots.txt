@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.aethelonglobal.com/sitemap.xml
+Sitemap: https://aethelonglobal.com/sitemap.xml

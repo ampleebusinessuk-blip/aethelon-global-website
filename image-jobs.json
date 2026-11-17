@@ -1,0 +1,40 @@
+{
+  "model": "google/gemini-2.5-flash-image",
+  "style": "Photorealistic editorial photograph, natural window light, warm soft tones, shallow depth of field, 35mm lens, candid and unposed, diverse real-looking people, modern lived-in spaces with plants and wood, muted warm colour grade. No text, no logos, no watermarks, no captions, no readable screens.",
+  "jobs": [
+    { "id": "hero-6", "output": "assets/images/hero-6.jpg", "aspect_ratio": "16:9",
+      "prompt": "Two colleagues at a standing desk in a modern plant-filled office look at a large monitor showing colourful abstract charts; one points at the screen, both engaged and smiling. Leave open space on the left third of the frame." },
+
+    { "id": "feature-ai", "output": "assets/images/feature-ai.jpg", "aspect_ratio": "4:3",
+      "prompt": "A consultant and a client team gathered around a laptop and tablet in a bright meeting room, mid-discussion, one person gesturing toward abstract data visualisations on a wall screen." },
+    { "id": "feature-research", "output": "assets/images/feature-research.jpg", "aspect_ratio": "4:3",
+      "prompt": "Senior business leaders at a roundtable reviewing a printed research report with charts, coffee cups on the table, one woman leading the conversation, large windows behind." },
+    { "id": "feature-modernize", "output": "assets/images/feature-modernize.jpg", "aspect_ratio": "4:3",
+      "prompt": "An engineer with a laptop standing in a clean, softly lit modern data-centre aisle, rows of server racks receding behind her, calm and confident expression." },
+
+    { "id": "story-1", "output": "assets/images/story-1.jpg", "aspect_ratio": "16:9",
+      "prompt": "Young people playing a video game together on a couch in a cosy living room, lit by the warm glow of the TV, laughing." },
+    { "id": "story-2", "output": "assets/images/story-2.jpg", "aspect_ratio": "16:9",
+      "prompt": "A friendly customer-service agent wearing a headset smiling while helping a caller, in a bright modern contact centre with plants." },
+    { "id": "story-3", "output": "assets/images/story-3.jpg", "aspect_ratio": "16:9",
+      "prompt": "A strategist sticking colourful notes onto a glass wall planning board while two colleagues watch, late-afternoon light." },
+    { "id": "story-4", "output": "assets/images/story-4.jpg", "aspect_ratio": "16:9",
+      "prompt": "Community outreach workers and a city planner reviewing a map on a tablet outside a neighbourhood housing centre, warm daylight." },
+    { "id": "story-5", "output": "assets/images/story-5.jpg", "aspect_ratio": "16:9",
+      "prompt": "A data engineer at a dual-monitor desk with abstract colourful data pipeline diagrams, focused, cup of tea beside the keyboard." },
+    { "id": "story-6", "output": "assets/images/story-6.jpg", "aspect_ratio": "16:9",
+      "prompt": "A factory operations manager in a hi-vis vest holding a tablet on a clean, bright manufacturing floor, talking with a technician." },
+    { "id": "story-7", "output": "assets/images/story-7.jpg", "aspect_ratio": "16:9",
+      "prompt": "Cheering sports fans in a stadium crowd holding up their phones, golden-hour light, joyful energy." },
+    { "id": "story-8", "output": "assets/images/story-8.jpg", "aspect_ratio": "16:9",
+      "prompt": "A marketing team reviewing campaign mood boards and product photos spread across a large wooden table." },
+    { "id": "story-9", "output": "assets/images/story-9.jpg", "aspect_ratio": "16:9",
+      "prompt": "An older patient smiling while booking a doctor's appointment on a smartphone at a kitchen table, with a family member helping." },
+    { "id": "story-10", "output": "assets/images/story-10.jpg", "aspect_ratio": "16:9",
+      "prompt": "Two software engineers pair-programming at a standing desk, one explaining an abstract flow diagram on a whiteboard behind them." },
+    { "id": "story-11", "output": "assets/images/story-11.jpg", "aspect_ratio": "16:9",
+      "prompt": "A diverse panel of colleagues in a thoughtful discussion around a table in a library-like meeting room, notebooks open." },
+    { "id": "story-12", "output": "assets/images/story-12.jpg", "aspect_ratio": "16:9",
+      "prompt": "An IT specialist examining a vintage mainframe computer cabinet alongside a modern laptop, contrast of old and new technology, soft light." }
+  ]
+}
